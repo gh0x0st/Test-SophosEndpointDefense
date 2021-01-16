@@ -7,6 +7,12 @@ With Sophos Central, in order to protect the integrity of their installation, an
 
 What this control does is ensure that your Sophos Client stays running unless Sophos Tamper Protection, is disabled from the Administrative Console, or a through a randomly generated (and unique) password for that device is entered. 
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 __With Tamper Protection enabled, the following are blocked:__
 
 * Stopping services from the Services UI
